@@ -13,6 +13,6 @@ export const educationData: Education[] = [
     year: "2021 - 2025",
     institution: "Techno India NJR Institute of Technology",
     degree: "B.Tech in Computer Science",
-    advisor: "7.3",
+    advisor: "7.83",
   },
 ];
