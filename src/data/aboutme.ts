@@ -31,7 +31,7 @@ export const aboutMe: AboutMe = {
   linkedinUsername: "vishal-kumawat-94a6b0225",
   // twitterUsername: "janesmith",
   // blogUrl: "https://",
-  cvUrl: "https://drive.google.com/file/d/1CHN0zLmeWi-w1WM7A3z6VXz7z_6pcs7b/view?usp=drive_link",
+  cvUrl: "https://drive.google.com/file/d/1IE8zin39w0mXZ5Il_yne_Oj35qTvS1yl/view?usp=drive_link",
   // institutionUrl: "https://www.stanford.edu",
   // altName: "",
   secretDescription: "I like Cat's.",
